@@ -1,0 +1,2 @@
+﻿excel_row,filename,error
+5,filename,"HTTP 400: {""detail"":{""type"":""invalid_request"",""code"":""bad_request"",""message"":""An invalid ID has been received: 'voice_id (tuỳ chọn)'. Make sure to provide a correct one."",""status"":""invalid_uid"",""request_id"":""ce"
